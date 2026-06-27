@@ -192,15 +192,9 @@ Telemetria publicada a cada **10 segundos** no tópico `v1/devices/me/telemetry`
 
 ## 👤 Autor
 
-**André Martins**  
+**André Athaydes Martins**  
 Trabalho de Conclusão de Curso — Engenharia / Tecnologia  
 2025
-
----
-
-## 📄 Licença
-
-Este projeto é de uso acadêmico e está disponível sob a licença [MIT](LICENSE).
 
 ---
 
@@ -211,8 +205,3 @@ Simulação do controlador fuzzy em Python (Google Colab):
 EOF
 echo "README firmware gerado"
 Saída
-
-README firmware gerado
-Concluído
-
-Você está sem mensagens gratuitas
