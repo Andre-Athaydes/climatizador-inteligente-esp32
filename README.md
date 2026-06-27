@@ -1,5 +1,3 @@
-# climatizador-inteligente-esp32
-at > /mnt/user-data/outputs/README_firmware.md << 'EOF'
 # 🌡️ Climatizador Inteligente ESP32
 
 Sistema embarcado de controle inteligente de **ar-condicionado e ventilador de mesa** baseado em **Lógica Fuzzy**, desenvolvido com ESP32 como parte de Trabalho de Conclusão de Curso.
