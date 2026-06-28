@@ -198,6 +198,12 @@ Trabalho de Conclusão de Curso — Engenharia / Tecnologia
 
 ---
 
+## 📄 Licença
+ 
+Este projeto é de uso acadêmico e está disponível sob a licença [MIT](LICENSE).
+ 
+---
+
 ## 🔗 Repositório relacionado
 
 Simulação do controlador fuzzy em Python (Google Colab):  
